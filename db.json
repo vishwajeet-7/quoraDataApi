@@ -1,0 +1,18 @@
+{
+    "data": [
+    {
+    "id": 1,
+    "author": "Omer Elbaz",
+    "question": "What are the advantages that exist in Next.js and don't exist in React.js?",
+    "avatar": "Next.js provides a number of features that are not available in React.js, or which are available only with additional",
+    "answer": "Lawson",
+    "image": "https://reqres.in/img/faces/7-image.jpg",
+    "date": "",
+    "profession":"Translator,content-writer,blogger",
+    "upvotes": 20,
+    "downvotes":25,
+    "shares": 8,
+    "comments":5
+    }
+    ]
+}
